@@ -1,2 +1,3 @@
-# Game-
+# Game?
 Well then. I'm not used to doing stuff like this.. To be honest, I've never done anything like this so. I wonder how this will go. I have few ideas in my head, but.. I'm not sure about the "art/Design/Graphic" part. For now.. This will be private Test.
+This may take time.. (It will actually).. Cause it takes time to get used to this. I've always wanted to make something.. Like HUD or game, or just something like Discord, Google+ (err.. okay not really google+ , But you get the idea.) Anyways, This will be interesting for me atleast cause this is the first time for me doing anything related to coding or.. Well.. What you call it.
