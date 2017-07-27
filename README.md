@@ -1,4 +1,10 @@
-# Hello World!
+
+# About me / Hello world
+
+=======
+# About me / Hello World
+
+
 
 My name is Zane / Shady. I'm a gamer & singer. I've been dreaming about making programs and games for a long time now, without even knowing how. I've seen many apps & games ("Oh really?" , Yes..).
 
@@ -10,6 +16,7 @@ What I like?
 -Messing around with friends. We always had that one friend who always had "Crazy" ideas. As he/she told us the ideas.. Sometimes we followed her/him, and heh.. Got in trouble.
 
 I live in Finland.
+
 I mostly spend my time on PC (*Free time I mean..) Anyways..
 
 "Apps That I Use"
@@ -34,3 +41,5 @@ Games That I play
 -Gmod
 -Payday 2
 (+ Many other games.. Tho they are on PS3/PS4/Xbox 360)
+=======
+I mostly spend my time on PC (*Free time I mean..) Anyways. Thats that I guess?
