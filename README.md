@@ -1,9 +1,6 @@
 
-# About me / Hello world
-
 =======
 # About me / Hello World
-
 
 
 My name is Zane / Shady. I'm a gamer & singer. I've been dreaming about making programs and games for a long time now, without even knowing how. I've seen many apps & games ("Oh really?" , Yes..).
@@ -42,4 +39,3 @@ Games That I play
 -Payday 2
 (+ Many other games.. Tho they are on PS3/PS4/Xbox 360)
 =======
-I mostly spend my time on PC (*Free time I mean..) Anyways. Thats that I guess?
